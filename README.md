@@ -4,7 +4,14 @@
 
 ## 📽️ 1. Introducción
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="EcoPaws en acción" width="400"/>
+</p>
 
+**EcoPaws** es una aplicación móvil creada con el corazón, pensada para quienes desean marcar la diferencia en la vida de los perritos que se encuentran en situaciones vulnerables. Desde rescates hasta reportes comunitarios, la app facilita la conexión entre personas solidarias y animales que necesitan ayuda.  
+Con una interfaz amigable y un enfoque basado en datos, **EcoPaws** permite registrar casos, enviar alertas, consultar estadísticas y recibir notificaciones relevantes para actuar con rapidez y responsabilidad.  
+
+Esta app no solo busca proteger a los perritos, sino también contribuir a un entorno más limpio y saludable, involucrando a toda la comunidad. 🐶🌎
 
 ---
 
@@ -17,16 +24,15 @@ La app también permite **reportar perritos desaparecidos** y **perritas en celo
 
 ## 📚 3. Tabla de Contenidos
 
-- Registrarme e iniciar sesión para acceder a mis datos y mi cuenta.  
-- Recibir reportes de perritas en celo, animales perdidos y basura acumulada.  
-- Recibir alertas sobre acumulaciones de basura para tomar medidas de limpieza.  
-- Que el sistema pueda identificar y registrar animales perdidos para facilitar su recuperación.  
-- Interfaz amigable para ver estadísticas sobre la situación ambiental y animal en el mercado.  
-- Que el sistema sugiera medidas para reducir la sobrepoblación de animales callejeros con base en datos recopilados.  
-- Recibir notificaciones sobre campañas de esterilización y adopción en la ciudad.  
-- Que el sistema pueda generar informes para autoridades locales sobre la situación de los animales y la basura.  
-- Uun dashboard que muestre datos en tiempo real sobre acumulaciones de basura y presencia de animales.  
-
+- Como usuario, necesito poder registrarme e iniciar sesión para acceder a mis datos y mi cuenta.  
+- Como usuario, necesito recibir reportes de perritas en celo, animales perdidos y basura acumulada.  
+- Como usuario, quiero recibir alertas sobre acumulaciones de basura para tomar medidas de limpieza.  
+- Como usuario, quiero que el sistema pueda identificar y registrar animales perdidos para facilitar su recuperación.  
+- Como usuario, quiero una interfaz amigable para ver estadísticas sobre la situación ambiental y animal en el mercado.  
+- Como usuario, quiero que el sistema sugiera medidas para reducir la sobrepoblación de animales callejeros con base en datos recopilados.  
+- Como usuario, quiero recibir notificaciones sobre campañas de esterilización y adopción en la ciudad.  
+- Como usuario, quiero que el sistema pueda generar informes para autoridades locales sobre la situación de los animales y la basura.  
+- Como usuario, quiero un dashboard que muestre datos en tiempo real sobre acumulaciones de basura y presencia de animales.  
 
 ---
 
@@ -70,3 +76,5 @@ Actualmente, el proyecto **EcoPaws** ya cuenta con funcionalidades básicas y en
 Además, ya es posible **realizar reportes**, los cuales se almacenan correctamente en la base de datos de Firebase. La app también es capaz de **consultar y recuperar esos reportes** para que otros usuarios puedan visualizar situaciones ya documentadas y actuar en consecuencia. Esta base funcional sienta las bases para seguir ampliando las capacidades de la aplicación en futuras versiones.
 
 ---
+
+
