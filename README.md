@@ -4,7 +4,7 @@
 
 ## 📽️ 1. Introducción
 
-<!-- Puedes insertar aquí un GIF o una imagen ilustrativa del funcionamiento de la app -->
+
 
 ---
 
@@ -17,7 +17,16 @@ La app también permite **reportar perritos desaparecidos** y **perritas en celo
 
 ## 📚 3. Tabla de Contenidos
 
-<!-- Deja esta sección en blanco para ser completada más adelante -->
+- Registrarme e iniciar sesión para acceder a mis datos y mi cuenta.  
+- Recibir reportes de perritas en celo, animales perdidos y basura acumulada.  
+- Recibir alertas sobre acumulaciones de basura para tomar medidas de limpieza.  
+- Que el sistema pueda identificar y registrar animales perdidos para facilitar su recuperación.  
+- Interfaz amigable para ver estadísticas sobre la situación ambiental y animal en el mercado.  
+- Que el sistema sugiera medidas para reducir la sobrepoblación de animales callejeros con base en datos recopilados.  
+- Recibir notificaciones sobre campañas de esterilización y adopción en la ciudad.  
+- Que el sistema pueda generar informes para autoridades locales sobre la situación de los animales y la basura.  
+- Uun dashboard que muestre datos en tiempo real sobre acumulaciones de basura y presencia de animales.  
+
 
 ---
 
