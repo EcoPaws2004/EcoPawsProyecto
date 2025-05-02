@@ -1,11 +1,48 @@
 <ion-header>
-
+  <ion-toolbar>
+    <ion-title>Reportes</ion-title>
+  </ion-toolbar>
 </ion-header>
 
-<ion-content>
+<ion-content class="ion-padding">
+  <!-- Reportes de Basura -->
+  <h2>Reportes de Basura</h2>
+  <ion-card *ngFor="let reporte of reportesBasura">
+    <ion-card-header>
+      <ion-card-title>{{ reporte.titulo }}</ion-card-title>
+    </ion-card-header>
 
-  
+    <ion-card-content>
+      
+      {{ reporte.descripcion }}
+
+    </ion-card-content>
+    
+  </ion-card>
+
+  <!-- Reportes de Celo -->
+  <h2>Reportes de Perritas en Celo</h2>
+  <ion-card *ngFor="let reporte of reportesCelo">
+    <ion-card-header>
+      <ion-card-title>{{ reporte.titulo }}</ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      {{ reporte.descripcion }}
+    </ion-card-content>
+  </ion-card>
+
+  <!-- Reportes de Perdido -->
+  <h2>Reportes de Perritos Perdidos</h2>
+  <ion-card *ngFor="let reporte of reportesPerdido">
+    <ion-card-header>
+      <ion-card-title>{{ reporte.titulo }}</ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      {{ reporte.descripcion }}
+    </ion-card-content>
+  </ion-card>
 </ion-content>
+
 <ion-tab-bar color="light">
   <!-- Botón Menú -->
   <ion-tab-button tab="1">

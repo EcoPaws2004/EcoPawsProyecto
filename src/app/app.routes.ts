@@ -54,5 +54,10 @@ export const routes: Routes = [
     path: 'notificaciones',
     loadComponent: () => import('./pages/notificaciones/notificaciones.page').then( m => m.NotificacionesPage)
   },
+  {
+    path: 'perfil',
+    loadComponent: () => import('./pages/perfil/perfil.page').then( m => m.PerfilPage)
+  },
+
 
 ];
