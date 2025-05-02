@@ -5,7 +5,7 @@
 ## 📽️ 1. Introducción
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="EcoPaws en acción" width="400"/>
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif](https://i0.wp.com/media.giphy.com/media/MWOKhwdHC06je/giphy.gif?ssl=1)" alt="EcoPaws en acción" width="400"/>
 </p>
 
 **EcoPaws** es una aplicación móvil creada con el corazón, pensada para quienes desean marcar la diferencia en la vida de los perritos que se encuentran en situaciones vulnerables. Desde rescates hasta reportes comunitarios, la app facilita la conexión entre personas solidarias y animales que necesitan ayuda.  
