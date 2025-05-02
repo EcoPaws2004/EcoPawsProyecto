@@ -1,5 +1,18 @@
 # 🐾 EcoPaws - App de Rescate Canino
-
+<p align="center">
+  <a href="https://www.instagram.com/ecopaws1s" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ecopaws1s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@eco.paws5?_t=ZM-8w1zc6AHAV3&_r=1" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@eco.paws5-010101?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/18cpQrxtxd/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-EcoPaws-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/eco-paws-s1s-b8a435363" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-eco--paws--s1s-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 📽️ 1. Introducción
